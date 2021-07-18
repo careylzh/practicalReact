@@ -6,3 +6,4 @@
 - [ ] file organisation (rephrase: keeping function body for high-level logic, hooks in the same location, you can only call hooks in the return body of the function etc)
 - [ ] hooks for fetching data, passing parameters
 - [ ] internalisation of standard text using react.intl
+- [ ] overwriting styled components 
