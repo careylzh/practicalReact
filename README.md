@@ -1,5 +1,5 @@
 # practicalReact
-- [ ] prop drilling the right way
+- [ ] how to pass in props from a "layout file" to compound components(made of up sub components)
 - [ ] conditional rendering based on media-query (eg. different constituents for different sizes, different colours, position of elements, new elements for smaller screens etc) through adding a new feature prop
 - [ ] relative linking <link> vs <a> tag
 - [ ] rephrase: "how do I refactor this component into a separate file such that I pass in the correct placeholder props in the new file into the function body?" 
@@ -7,3 +7,5 @@
 - [ ] hooks for fetching data, passing parameters
 - [ ] internalisation of standard text using react.intl
 - [ ] overwriting styled components 
+- [ ] conditional rendering using the Typescript data type *Record* and custom hooks (it's almost like switch case implemented as components) 
+- [ ] why class components are outdated (eg. benefit of hooks can be only used in the newer functional component definition, and not ) 
